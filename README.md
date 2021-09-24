@@ -9,7 +9,7 @@ Step 5: Create a new branch
 Step 6: Create a new repository on GitHub 
 Step 7: Push a branch to Github
 Step 8: Create a pull request
-Step 9: Mere a pull request
+Step 9: Merge a pull request
 Step 10: Get changes on Github back to your computer
 
 Glossary Terms
